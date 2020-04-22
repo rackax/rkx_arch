@@ -5,7 +5,7 @@ sudo pacman -Sy
 
 sudo pacman -S git
 
-git clone https://github.com/krushndayshmookh/krushn-arch --depth=1
+git clone https://github.com/rackax/rkx_arch --depth=1
 
 cd krushn-arch
 
