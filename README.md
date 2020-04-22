@@ -16,4 +16,5 @@ cd krushn-arch
 
 #### Taken from 
 https://dev.to/krushndayshmookh/installing-arch-linux-the-scripted-way-236c
+
 https://github.com/krushndayshmookh/krushn-arch
