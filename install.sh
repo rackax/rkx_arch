@@ -1,9 +1,9 @@
 #! /bin/bash
 
-# This is Krushn's Arch Linux Installation Script.
-# Visit krushndayshmookh.github.io/krushn-arch for instructions.
+# This is Rkx's Arch Linux Installation Script.
+# Visit https://github.com/rackax/rkx_arch for instructions.
 
-echo "Krushn's Arch Installer"
+echo "Rkx's Arch Installer"
 
 # Set up network connection
 read -p 'Are you connected to internet? [y/N]: ' neton
