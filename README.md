@@ -7,7 +7,7 @@ sudo pacman -S git
 
 git clone https://github.com/rackax/rkx_arch --depth=1
 
-cd krushn-arch
+cd rkx-arch
 
 # please edit the hostname and username in the post-install.sh 
 
